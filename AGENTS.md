@@ -7,6 +7,11 @@
 - Do not touch any other files in this repository unless the user explicitly names them in the request.
 - If a task's instructions conflict with this scope, the scope wins — ask the user rather than expanding access.
 
+## Commands
+ 
+- Install: `<fill in — e.g. pip install -r requirements.txt>`
+- Run: `<fill in — e.g. python sample_2.py>`
+
 ## Delivery
  
 - After any change, list exactly what was modified in `sample_2.py`.
